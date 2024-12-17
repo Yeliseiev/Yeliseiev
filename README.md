@@ -4,9 +4,9 @@
 
 - 📫 How to reach me:
 
-[![Static Badge](https://img.shields.io/badge/Yeliseiev%20Kim-%230077b5?style=flat&logo=linkedin&labelColor=%230077b5&color=%230077b5&-398178253%2F)](https://www.linkedin.com/in/kim-yeliseiev-398178253/)
+[![Static Badge](https://img.shields.io/badge/Kim%20Yeliseiev-%230077b5?style=flat&logo=linkedin&labelColor=%230077b5&color=%230077b5&-398178253%2F)](https://www.linkedin.com/in/kim-yeliseiev-398178253/)
 [![Static Badge](https://img.shields.io/badge/My%20Portfolio-%2364ffda?style=flat&logo=chainlink&logoColor=%23fff&labelColor=%2364ffda&color=%2364ffda)](https://yeliseiev.github.io/portfolio/)
-[![Static Badge](https://img.shields.io/badge/Yeliseiev%20Kim-%23daa403?style=flat&logo=gmail&logoColor=%23eef1e3&labelColor=%23ab1e1b&color=%23ab1e1b&-398178253%2F)](mailto:yeliseiev.kim@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Kim%20Yeliseiev-%23daa403?style=flat&logo=gmail&logoColor=%23eef1e3&labelColor=%23ab1e1b&color=%23ab1e1b&-398178253%2F)](mailto:yeliseiev.kim@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Smith271-%23f05656?style=flat&logo=codewars&labelColor=%23f05656&color=%23f05656&)](https://www.codewars.com/users/Smith271)
 
 
